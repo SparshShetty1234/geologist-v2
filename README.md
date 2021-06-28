@@ -1,1 +1,2 @@
-# geologist-v2
+# Geologist
+Geologist Project
